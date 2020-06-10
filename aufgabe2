@@ -1,1 +1,384 @@
-<mxfile host="app.diagrams.net" modified="2020-06-10T09:12:57.888Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" version="13.2.1" etag="8Wmgrl1kPLa_YEPs42F6" type="github"><diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">7VjbctowEP0aHmF84ZZHIJDMtCQzIW2fhbXYamSJygJDv74rW45tTGkyTUo6w5Oto/Xe98h2y5/EuxtF1tFcUuAtz6G7ln/d8jzX83y8GGSfI8OBmwOhYtQKlcCC/QQLOhbdMApJTVBLyTVb18FACgGBrmFEKZnWxVaS162uSQgNYBEQ3kS/MaojG4U3KPFbYGFUWHb7V/lOTAphG0kSESrTCuRPW/5ESanzu3g3AW6SV+Qlf272m91nxxQI/ZIH6N1uf/dpEAyGy8/pNqEwv+21XatmS/jGRnyvwiAiSluv9b5IRZKymBOBq3GkY46gi7eJRllbN/QA96RiP6XQpJAIzIIJUI/7tZHSCoyOkJPEFMc804yl8AuUhl0FsrHdgIxBqz2K2N2uTXPRZ3aZlkUbFD0VVQrmXVmQ2EYJnzWXucQbm85s+SUBdb/8btrNczhZAs8fbXk9QWLAS8vrczQwXiq8C3UWYY6wWk77Pzam/JgiLlXLH2VjQPblRvl4by0TppkUFfXoFzs00DRJTMgKVjWLMWFcy8xkD8wiV3tgdprvPFsjpW6TsyzaLPTplqBjzpxxDspWs/A3E5jM7nOYy4CU8P1qxQLMmGPrnbuSbaHqrgM7Eq85dAIZW62cBBDhFIOqTzZn4ikHIq0NOYxM+bxZmqYdqkjaYTIXPD0PXqXJ7ABVRsAWe8zinDbqpgIq/A7Ddl8xgf7lTs8o0cQUCvEErxtsnjbZIqiSNvo+6xmbGZy0r9oeujDsrEWIVtKIaVisMWA0lSK/1idPyQ2aoXaEquNkJmwut8xoyUQNMMOklUhz4k7zw4vn0OvXB7HXHER3eGQQB6+fQ1xWRvE1rOc3WK/BdiDoyJwfuFpizz49Rgx7dozwjPGiBCukNst9rlkDxcPD6gC+lOm0BMYZgBsmlyww9HhQwlfWJJEbFcAfmxkPTKJCOKmxa6eP1g7DZo0VcBzebf1svDDnXzEnTYmihjulUiwxXjbZc6yIyGSIQOJRJ5nU+yBM2j0rk7pO238rKq0zZ4Nc341KD15p3CPvNEepdPgvqbR3odKaYP9Cpeei0kdIEmPnK3696WM0evuA0DVTmDR5mkSLA/HcJNo/K4n+9wx6+DL6MSl0cKHQmuDwQqHnotAH45dzLYXMPuibFLrYJxqQR5wRjZk4yaH+B+HQ4Vk59E0+6N/vFfPqrASJUPkDNBOv/Eb2p78A</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-06-10T10:07:19.837Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="dikUiq6Mhb2sS1B1niVl" version="13.2.1" type="github">
+  <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
+    <mxGraphModel dx="3195" dy="1230" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <object label="Orgchart" id="dNxyNK7c78bLwvsdeMH5-11">
+          <mxCell style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
+            <mxGeometry x="-220" width="2660" height="510" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="wlqsG9Hbb2oi0Y2OLltW-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="wlqsG9Hbb2oi0Y2OLltW-1" target="wlqsG9Hbb2oi0Y2OLltW-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730" y="99.99999999999977" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1330" y="120" />
+              <mxPoint x="1040" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wlqsG9Hbb2oi0Y2OLltW-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="wlqsG9Hbb2oi0Y2OLltW-1" target="wlqsG9Hbb2oi0Y2OLltW-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1330" y="120" />
+              <mxPoint x="590" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wlqsG9Hbb2oi0Y2OLltW-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="wlqsG9Hbb2oi0Y2OLltW-1" target="wlqsG9Hbb2oi0Y2OLltW-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1330" y="120" />
+              <mxPoint x="170" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wlqsG9Hbb2oi0Y2OLltW-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="wlqsG9Hbb2oi0Y2OLltW-1" target="wlqsG9Hbb2oi0Y2OLltW-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1330" y="120" />
+              <mxPoint x="420" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wlqsG9Hbb2oi0Y2OLltW-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="wlqsG9Hbb2oi0Y2OLltW-1" target="wlqsG9Hbb2oi0Y2OLltW-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1330" y="120" />
+              <mxPoint x="1750" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;%department%&lt;/b&gt;&lt;/font&gt;" placeholders="1" department="Geschäftsführerin" id="wlqsG9Hbb2oi0Y2OLltW-1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;glass=0;align=center;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="1260" y="60" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="wlqsG9Hbb2oi0Y2OLltW-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="wlqsG9Hbb2oi0Y2OLltW-2" target="wlqsG9Hbb2oi0Y2OLltW-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1040" y="190" />
+              <mxPoint x="890" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wlqsG9Hbb2oi0Y2OLltW-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="wlqsG9Hbb2oi0Y2OLltW-2" target="wlqsG9Hbb2oi0Y2OLltW-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1040" y="190" />
+              <mxPoint x="740" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wlqsG9Hbb2oi0Y2OLltW-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="wlqsG9Hbb2oi0Y2OLltW-2" target="wlqsG9Hbb2oi0Y2OLltW-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1040" y="180" />
+              <mxPoint x="1040" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wlqsG9Hbb2oi0Y2OLltW-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="wlqsG9Hbb2oi0Y2OLltW-2" target="wlqsG9Hbb2oi0Y2OLltW-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1040" y="190" />
+              <mxPoint x="1190" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wlqsG9Hbb2oi0Y2OLltW-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="wlqsG9Hbb2oi0Y2OLltW-2" target="wlqsG9Hbb2oi0Y2OLltW-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1040" y="190" />
+              <mxPoint x="1340" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;%department%&lt;/b&gt;&lt;/font&gt;" placeholders="1" department="Controlling" id="wlqsG9Hbb2oi0Y2OLltW-2">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;glass=0;align=center;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="970" y="140" width="140" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;%department%&lt;/b&gt;&lt;/font&gt;" placeholders="1" department="Leiterin Rechnungswesen" id="wlqsG9Hbb2oi0Y2OLltW-3">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;glass=0;align=center;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="820" y="215" width="140" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;%department%&lt;/b&gt;&lt;/font&gt;" placeholders="1" department="Finanzbuchhaltung" id="wlqsG9Hbb2oi0Y2OLltW-4">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;glass=0;align=center;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="970" y="215" width="140" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;%department%&lt;/b&gt;&lt;/font&gt;" placeholders="1" department="Finanzplanung" id="wlqsG9Hbb2oi0Y2OLltW-5">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;glass=0;align=center;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="1120" y="215" width="140" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;%department%&lt;/b&gt;&lt;/font&gt;" placeholders="1" department="Lohnbuchhaltung" id="wlqsG9Hbb2oi0Y2OLltW-6">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;glass=0;align=center;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="670" y="215" width="140" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;%department%&lt;/b&gt;&lt;/font&gt;" placeholders="1" department="Fakutierung" id="wlqsG9Hbb2oi0Y2OLltW-7">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;glass=0;align=center;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="1270" y="215" width="140" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="wlqsG9Hbb2oi0Y2OLltW-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="wlqsG9Hbb2oi0Y2OLltW-16" target="wlqsG9Hbb2oi0Y2OLltW-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;%department%&lt;/b&gt;&lt;/font&gt;" placeholders="1" department="Leiter Hilfsbetriebe" id="wlqsG9Hbb2oi0Y2OLltW-16">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;glass=0;align=center;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="520" y="140" width="140" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;%department%&lt;/b&gt;&lt;/font&gt;" placeholders="1" department="Fuhrpark" id="wlqsG9Hbb2oi0Y2OLltW-18">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;glass=0;align=center;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="520" y="215" width="140" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="wlqsG9Hbb2oi0Y2OLltW-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="wlqsG9Hbb2oi0Y2OLltW-20" target="wlqsG9Hbb2oi0Y2OLltW-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wlqsG9Hbb2oi0Y2OLltW-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="wlqsG9Hbb2oi0Y2OLltW-20" target="wlqsG9Hbb2oi0Y2OLltW-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;%department%&lt;/b&gt;&lt;/font&gt;" placeholders="1" department="Kaufmännische Direktorin" id="wlqsG9Hbb2oi0Y2OLltW-20">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;glass=0;align=center;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="100" y="140" width="140" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="wlqsG9Hbb2oi0Y2OLltW-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="wlqsG9Hbb2oi0Y2OLltW-22" target="wlqsG9Hbb2oi0Y2OLltW-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wlqsG9Hbb2oi0Y2OLltW-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="wlqsG9Hbb2oi0Y2OLltW-22" target="wlqsG9Hbb2oi0Y2OLltW-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="90" y="280" />
+              <mxPoint x="240" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;%department%&lt;/b&gt;&lt;/font&gt;" placeholders="1" department="Leiter Einkauf" id="wlqsG9Hbb2oi0Y2OLltW-22">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;glass=0;align=center;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="20" y="215" width="140" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="wlqsG9Hbb2oi0Y2OLltW-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="wlqsG9Hbb2oi0Y2OLltW-23" target="wlqsG9Hbb2oi0Y2OLltW-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="280" />
+              <mxPoint x="90" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wlqsG9Hbb2oi0Y2OLltW-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="wlqsG9Hbb2oi0Y2OLltW-23" target="wlqsG9Hbb2oi0Y2OLltW-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;%department%&lt;/b&gt;&lt;/font&gt;" placeholders="1" department="Verkaufsleiter" id="wlqsG9Hbb2oi0Y2OLltW-23">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;glass=0;align=center;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="170" y="215" width="140" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;%department%&lt;/b&gt;&lt;/font&gt;" placeholders="1" department="Außendienst Nord" id="wlqsG9Hbb2oi0Y2OLltW-26">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;glass=0;align=center;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="170" y="300" width="140" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;%department%&lt;/b&gt;&lt;/font&gt;" placeholders="1" department="Außendienst Süd" id="wlqsG9Hbb2oi0Y2OLltW-27">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;glass=0;align=center;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="20" y="300" width="140" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;%department%&lt;/b&gt;&lt;/font&gt;" placeholders="1" department="Leiter Allgemeine Verwaltung" id="wlqsG9Hbb2oi0Y2OLltW-32">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;glass=0;align=center;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="350" y="140" width="140" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="wlqsG9Hbb2oi0Y2OLltW-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="wlqsG9Hbb2oi0Y2OLltW-38" target="wlqsG9Hbb2oi0Y2OLltW-82">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1750" y="190" />
+              <mxPoint x="1970" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wlqsG9Hbb2oi0Y2OLltW-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="wlqsG9Hbb2oi0Y2OLltW-38" target="wlqsG9Hbb2oi0Y2OLltW-85">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1750" y="190" />
+              <mxPoint x="1520" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wlqsG9Hbb2oi0Y2OLltW-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="wlqsG9Hbb2oi0Y2OLltW-38" target="wlqsG9Hbb2oi0Y2OLltW-89">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1750" y="190" />
+              <mxPoint x="1670" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;%department%&lt;/b&gt;&lt;/font&gt;" placeholders="1" department="ProduktionsLeiter" id="wlqsG9Hbb2oi0Y2OLltW-38">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;glass=0;align=center;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="1680" y="140" width="140" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;%department%&lt;/b&gt;&lt;/font&gt;" placeholders="1" department="Herstellung Werk A" id="wlqsG9Hbb2oi0Y2OLltW-40">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;glass=0;align=center;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="1450" y="280" width="140" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;%department%&lt;/b&gt;&lt;/font&gt;" placeholders="1" department="Herstellung Werk B" id="wlqsG9Hbb2oi0Y2OLltW-41">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;glass=0;align=center;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="1600" y="280" width="140" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;%department%&lt;/b&gt;&lt;/font&gt;" placeholders="1" department="Werkstatt" id="wlqsG9Hbb2oi0Y2OLltW-42">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;glass=0;align=center;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="1750" y="280" width="140" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;%department%&lt;/b&gt;&lt;/font&gt;" placeholders="1" department="Produktionsmaterial" id="wlqsG9Hbb2oi0Y2OLltW-43">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;glass=0;align=center;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="1900" y="350" width="140" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="wlqsG9Hbb2oi0Y2OLltW-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="wlqsG9Hbb2oi0Y2OLltW-82" target="wlqsG9Hbb2oi0Y2OLltW-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;%department%&lt;/b&gt;&lt;/font&gt;" placeholders="1" department="Lagerwesen" id="wlqsG9Hbb2oi0Y2OLltW-82">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;glass=0;align=center;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="1900" y="215" width="140" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="wlqsG9Hbb2oi0Y2OLltW-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="wlqsG9Hbb2oi0Y2OLltW-84" target="wlqsG9Hbb2oi0Y2OLltW-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;%department%&lt;/b&gt;&lt;/font&gt;" placeholders="1" department="Wareneingang" id="wlqsG9Hbb2oi0Y2OLltW-84">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;glass=0;align=center;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="1900" y="280" width="140" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="wlqsG9Hbb2oi0Y2OLltW-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="wlqsG9Hbb2oi0Y2OLltW-85" target="wlqsG9Hbb2oi0Y2OLltW-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wlqsG9Hbb2oi0Y2OLltW-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="wlqsG9Hbb2oi0Y2OLltW-85" target="wlqsG9Hbb2oi0Y2OLltW-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1520" y="270" />
+              <mxPoint x="1670" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wlqsG9Hbb2oi0Y2OLltW-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="wlqsG9Hbb2oi0Y2OLltW-85" target="wlqsG9Hbb2oi0Y2OLltW-42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1520" y="270" />
+              <mxPoint x="1820" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;%department%&lt;/b&gt;&lt;/font&gt;" placeholders="1" department="Auftragsbearbeitung" id="wlqsG9Hbb2oi0Y2OLltW-85">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;glass=0;align=center;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="1450" y="215" width="140" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="wlqsG9Hbb2oi0Y2OLltW-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="wlqsG9Hbb2oi0Y2OLltW-89" target="wlqsG9Hbb2oi0Y2OLltW-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wlqsG9Hbb2oi0Y2OLltW-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="wlqsG9Hbb2oi0Y2OLltW-89" target="wlqsG9Hbb2oi0Y2OLltW-42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1670" y="270" />
+              <mxPoint x="1820" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wlqsG9Hbb2oi0Y2OLltW-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="wlqsG9Hbb2oi0Y2OLltW-89" target="wlqsG9Hbb2oi0Y2OLltW-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1670" y="270" />
+              <mxPoint x="1520" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;%department%&lt;/b&gt;&lt;/font&gt;" placeholders="1" department="Arbeitsvorbereitung" id="wlqsG9Hbb2oi0Y2OLltW-89">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;glass=0;align=center;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="1600" y="215" width="140" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="wlqsG9Hbb2oi0Y2OLltW-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="wlqsG9Hbb2oi0Y2OLltW-100" target="wlqsG9Hbb2oi0Y2OLltW-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wlqsG9Hbb2oi0Y2OLltW-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="wlqsG9Hbb2oi0Y2OLltW-100" target="wlqsG9Hbb2oi0Y2OLltW-109">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2340" y="200" />
+              <mxPoint x="2190" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;%department%&lt;/b&gt;&lt;/font&gt;" placeholders="1" department="Technischer Direktor" id="wlqsG9Hbb2oi0Y2OLltW-100">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;glass=0;align=center;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="2270" y="140" width="140" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="wlqsG9Hbb2oi0Y2OLltW-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="wlqsG9Hbb2oi0Y2OLltW-103" target="wlqsG9Hbb2oi0Y2OLltW-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wlqsG9Hbb2oi0Y2OLltW-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="wlqsG9Hbb2oi0Y2OLltW-103" target="wlqsG9Hbb2oi0Y2OLltW-111">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2340" y="270" />
+              <mxPoint x="2190" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wlqsG9Hbb2oi0Y2OLltW-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="wlqsG9Hbb2oi0Y2OLltW-103" target="wlqsG9Hbb2oi0Y2OLltW-113">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2340" y="270" />
+              <mxPoint x="2490" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;%department%&lt;/b&gt;&lt;/font&gt;" placeholders="1" department="Forschungsleiter" id="wlqsG9Hbb2oi0Y2OLltW-103">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;glass=0;align=center;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="2270" y="215" width="140" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;%department%&lt;/b&gt;&lt;/font&gt;" placeholders="1" department="Rechenzentrum" id="wlqsG9Hbb2oi0Y2OLltW-109">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;glass=0;align=center;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="2120" y="215" width="140" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;%department%&lt;/b&gt;&lt;/font&gt;" placeholders="1" department="Grundlagenforschung" id="wlqsG9Hbb2oi0Y2OLltW-111">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;glass=0;align=center;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="2120" y="280" width="140" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;%department%&lt;/b&gt;&lt;/font&gt;" placeholders="1" department="Entwicklung" id="wlqsG9Hbb2oi0Y2OLltW-112">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;glass=0;align=center;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="2270" y="280" width="140" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;%department%&lt;/b&gt;&lt;/font&gt;" placeholders="1" department="Test" id="wlqsG9Hbb2oi0Y2OLltW-113">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;glass=0;align=center;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="2420" y="280" width="140" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="wlqsG9Hbb2oi0Y2OLltW-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="wlqsG9Hbb2oi0Y2OLltW-1" target="wlqsG9Hbb2oi0Y2OLltW-100">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2070" y="110" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1330" y="120" />
+              <mxPoint x="2340" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
